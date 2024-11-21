@@ -98,8 +98,6 @@ else if Command = work
 {
     gui_destroy()
 
-    ; windows fucking scheduler is fucking FUCKED, so best alternative for a semi-decent backup is running this here
-    run pwsh -file "C:\duplicacy-repositories\tbp-flow\.duplicacy\duplicacy-utils\backup.ps1"
 
     run "C:/Users/TheBestPessimist/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/JetBrains Toolbox/JetBrains Toolbox.lnk"
     run "C:/ProgramData/Microsoft/Windows/Start Menu/Docker Desktop.lnk"
