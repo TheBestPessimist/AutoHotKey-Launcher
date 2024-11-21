@@ -1,6 +1,6 @@
 # I no longer use this
 
-As of Thursday 2024-11-21, I no longer use this repository and little GUI. I am fine with using just my other AHK scripts (https://git.tbp.land/AutoHotKey-Scripts/) for my automation, along with Flow Launcher (https://github.com/Flow-Launcher/Flow.Launcher) and its many plugins.
+As of Thursday 2024-11-21, I no longer use this repository and little GUI. I am fine with using my other AHK scripts (https://git.tbp.land/AutoHotKey-Scripts/) for automation, along with Flow Launcher (https://github.com/Flow-Launcher/Flow.Launcher) and its many plugins.
 
 _original readme below for posterity_
 
