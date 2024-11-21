@@ -1,3 +1,12 @@
+# I no longer use this
+
+As of Thursday 2024-11-21, I no longer use this repository and little GUI. I am fine with using just my other AHK scripts (https://git.tbp.land/AutoHotKey-Scripts/) for my automation, along with Flow Launcher (https://github.com/Flow-Launcher/Flow.Launcher) and its many plugins.
+
+_original readme below for posterity_
+
+-------
+
+
 ### What it is
 This is a small GUI that allows you to run any normal AutoHotkey command or block of code by typing a name for the command you want to run. I wrote this script because I was creating more and more hotkeys for various things, but I ran out of keys on my keyboard to assign hotkeys to. It is designed to be as minimal as possible.
 
